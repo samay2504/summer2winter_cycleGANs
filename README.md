@@ -50,13 +50,21 @@ The notebook provides a section to load saved models and perform translations on
 #### Results
 Example outputs:
 - Original Image (A) - Summer
+  ```
   ![summer1](https://github.com/user-attachments/assets/74a89a42-f9b4-41da-95b2-e6d62b1fcbfc)
+  ```
 - Translated Image (B) - Winter
+  ```
   ![winter1](https://github.com/user-attachments/assets/50248bbc-748d-43e6-bb66-41e1349bfffd)
+  ```
 - Original Image (A) - Winter
+  ```
   ![winter2](https://github.com/user-attachments/assets/f9bacf2e-ccd3-43fd-8a71-04b90a2478bd)
+  ```
 - Translated Image (B) - Summer
+  ```
   ![summer2](https://github.com/user-attachments/assets/644ca9e4-ea20-4e08-aaf1-da6892adff4b)
+  ```
   
 #### Visualization
 The notebook plots the training losses of the generator and discriminators.
